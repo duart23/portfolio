@@ -1,0 +1,39 @@
+/* Navbar styles */
+.navbar {
+    background-color: rgb(56, 116, 120) !important; /* Force dark background color */
+}
+
+.navbar .navbar-brand {
+    color: rgb(226, 241, 231) !important;
+    font-weight: bold;
+}
+
+.navbar .navbar-brand:hover {
+    color: #f8f9fa !important; /* Lighter color on hover */
+}
+
+.navbar .nav-link {
+    color: rgb(226, 241, 231)!important; /* Force white text for links */
+    padding: 10px 15px;
+    margin-left: 30px;/* Spacing around links */
+}
+
+.navbar .nav-link:first-child {
+    margin-left: 0; /* Remove left margin from the first link */
+}
+
+.navbar-collapse .nav-link {
+    margin: 0; /* Reset margin */
+    padding: 10px 15px; /* Set consistent padding */
+}
+
+.navbar .nav-link:hover {
+    background-color: rgb(70, 132, 137); /* Light background on hover */
+    border-radius: 5px; /* Rounded corners */
+}
+
+@media (max-width: 992px) {
+    .navbar {
+        background-color:rgb(56, 116, 120) !important; /* Slightly lighter on mobile */
+    }
+}
