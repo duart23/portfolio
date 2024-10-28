@@ -6,7 +6,7 @@ function Face() {
     <div className="face-container">
       <div className="hero-image">
         <h1 className="name">Duarte Jorge</h1>
-        <p className="tagline">Aspiring Developer & Designer</p>
+        <p className="tagline">Aspiring Software Developer</p>
         <a href="#projects" className="cta-button">View My Projects</a>
       </div>
     </div>
