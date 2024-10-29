@@ -1,0 +1,47 @@
+.socials-container {
+    background-color:rgb(36, 54, 66);
+
+    margin :0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 5%;
+    margin-right: 5%;
+    gap: 20px; /* Reduced gap between cards */
+    justify-content: center;
+  }
+  
+  .card-socials {
+    border: none;
+    background-color: transparent;
+    width: auto; /* Adjust to the content size */
+  }
+  
+  .card-body-socials {
+    padding: 10px; /* Adjust padding to reduce space */
+    border: 1px solid rgb(98, 149, 132); /* Optional border for the card */
+    border-radius: 8px;
+    background-color: rgb(56, 116, 120);
+  }
+  
+  .card-img {
+    width: 30px;
+    height: 30px;
+  }
+  
+  .card-text {
+    font-size: 1rem;
+  }
+  
+  .card-link {
+    text-decoration: none;
+  }
+  
+  .card-link:hover .card {
+    transform: scale(1.02); /* Optional hover effect */
+    transition: transform 0.2s ease-in-out;
+  }
