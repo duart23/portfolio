@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.e32f92da.css",
-    "main.js": "/portfolio/static/js/main.294a860d.js",
+    "main.css": "/portfolio/static/css/main.4c2e0edf.css",
+    "main.js": "/portfolio/static/js/main.35195260.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/Instagram.png": "/portfolio/static/media/Instagram.ac31e22207e23b7186e8.png",
+    "static/media/Pokedex.png": "/portfolio/static/media/Pokedex.240e6f5ec7504ee7686f.png",
+    "static/media/Showdex.ttf": "/portfolio/static/media/Showdex.d1abfd42e3a2d2595f9b.ttf",
+    "static/media/dog.gif": "/portfolio/static/media/dog.6c6bf45ef0a58b89f388.gif",
+    "static/media/Email.png": "/portfolio/static/media/Email.05b80f9c7bd70ec8c753.png",
+    "static/media/LinkedIn.png": "/portfolio/static/media/LinkedIn.68ac41e1459436bfd38f.png",
     "index.html": "/portfolio/index.html",
-    "main.e32f92da.css.map": "/portfolio/static/css/main.e32f92da.css.map",
-    "main.294a860d.js.map": "/portfolio/static/js/main.294a860d.js.map",
+    "main.4c2e0edf.css.map": "/portfolio/static/css/main.4c2e0edf.css.map",
+    "main.35195260.js.map": "/portfolio/static/js/main.35195260.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e32f92da.css",
-    "static/js/main.294a860d.js"
+    "static/css/main.4c2e0edf.css",
+    "static/js/main.35195260.js"
   ]
 }
