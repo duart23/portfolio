@@ -16,6 +16,11 @@
 
 }
 
+img {
+    width: 100%;
+    height: auto;
+}
+
 .project{
     width: 300px;
     padding: 10px;
