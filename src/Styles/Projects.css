@@ -1,35 +1,15 @@
 .projects-container {
-    background-color: rgb(226, 241, 231);
+    background-color: rgb(255, 255, 255);
     margin :0;
     padding-top: 50px;
     padding-bottom: 50px;
 }
 
 .projects{
+    margin: 0;
     display: flex;
     flex-wrap: wrap;
-    margin-left: 10%;
-    margin-right: 10%;
-    gap: 10%;
     justify-content: center;
     align-items: center;
 
 }
-
-img {
-    width: 100%;
-    height: auto;
-}
-
-.project{
-    width: 300px;
-    padding: 10px;
-    border-radius: 5px;
-    text-align: center;
-}
-
-.project img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 5px;
-  }

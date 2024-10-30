@@ -17,6 +17,7 @@
   
   .card-socials {
     border: none;
+    width: 10%;
     background-color: transparent;
     width: auto; /* Adjust to the content size */
   }

@@ -46,3 +46,46 @@
     font-family: myFont;
     src: url(../Font/Showdex.ttf);
 }
+
+
+@media screen and (max-width: 1200px) {
+  .name {
+    font-size: 10rem;
+  }
+  .tagline {
+    font-size: 1.3rem;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .name {
+    font-size: 8rem;
+  }
+  .tagline {
+    font-size: 1.2rem;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .name {
+    font-size: 6rem;
+  }
+  .tagline {
+    font-size: 1rem;
+  }
+  .cta-button {
+    padding: 8px 16px;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .name {
+    font-size: 4rem;
+  }
+  .tagline {
+    font-size: 0.9rem;
+  }
+  .cta-button {
+    padding: 6px 12px;
+  }
+}

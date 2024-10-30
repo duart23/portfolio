@@ -1,0 +1,42 @@
+.project-card{
+    color: #4A628A;
+    width: 100% !important;
+    margin-bottom: 5%;
+    height: 300px;
+    background: #DFF2EB;
+    border-radius: 20px;
+}
+
+
+.card-image{
+    width: 35%!important;
+    height: auto;
+}
+
+.image{
+    width: 280px;
+    height: auto;
+    object-fit: cover;
+}
+
+.card-body{
+    margin-top: 1%;
+    margin-left: 1%;
+    margin-top: 1%;
+    width: 60%;
+}
+
+.card-buttons{
+    gap: 50px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2%;
+}
+
+.button{
+  background-color: #B9E5E8;
+  color: #4A628A;
+  border: 0;
+
+}
