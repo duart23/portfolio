@@ -3,7 +3,8 @@ import Projects from './Components/Projects';
 import Navbar from './Components/Navbar';
 import Introduction from './Components/Introduction';
 import MyPath from './Components/MyPath';
-import Socials from './Components/Socials';
+// import Socials from './Components/Socials';
+import "@fontsource/jura";
 import './App.css';
 
 function App() {
@@ -13,7 +14,7 @@ function App() {
       <Introduction/>
       <Projects/>
       <MyPath/>
-      <Socials/>
+      {/* <Socials/> */}
     </div>
   );
 }

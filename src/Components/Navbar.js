@@ -8,13 +8,12 @@ function Navigation() {
   return (
     <Navbar expand="lg" className='navbar sticky-top'>
       <Container>
-        <Navbar.Brand href="#home">Duarte Jorge</Navbar.Brand>
+        <Navbar.Brand href="/">Duarte Jorge</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto">
-            <Nav.Link href="">Who am I?</Nav.Link>
-            <Nav.Link href="">My Projects</Nav.Link>
-            <Nav.Link href="">My path</Nav.Link>
+            <Nav.Link href="#projects">My Projects</Nav.Link>
+            <Nav.Link href="#mypath">My path</Nav.Link>
             <Nav.Link href="">Socials</Nav.Link>
           </Nav>
         </Navbar.Collapse>
