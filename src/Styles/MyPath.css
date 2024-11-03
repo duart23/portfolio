@@ -1,26 +1,44 @@
 .myPath-container {
-    margin-top: 0px;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    background-color: rgb(226, 241, 231);
+    background-color: rgb(255, 255, 255);
 }
 
-.cards{
-    margin-top: 30px;
-    display: flex;
-    flex-wrap: wrap;
-    margin-left: 10%;
-    margin-right: 10%;
-    gap: 10%;
-    justify-content: center;
-    align-items: center;
+  .myPath-timeline {
+    position: relative;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
 
-}
+ /* .myPath-timeline::after {
+    content: '';
+    position: absolute;
+    width: 6px;
+    background-color: #4A628A;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    margin-left: -3px;
+  } */
 
-.card{
-    width: 300px;
-    padding: 10px;
-    border-radius: 5px;
-    text-align: center;
-    background-color: transparent;
-}
+  .left::after {
+    content: '';
+    position: absolute;
+    width: 6px;
+    background-color: #4A628A;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    margin-left: -3px;
+  }
+
+
+
+  .myPath-card{
+    background-color: rgb(165, 100, 100);
+  }
+
+  .right{
+    left: 
+  }
+
+
+

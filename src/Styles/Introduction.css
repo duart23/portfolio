@@ -1,0 +1,33 @@
+.introduction-container{
+padding-left: 5%;
+padding-right: 5%;
+height: 800px;
+background-color: #B9E5E8;
+}
+
+h1{
+font-size: 6rem;
+margin-bottom: 10%
+}
+
+.introduction-body{
+  width: 55%;
+  font-size: 16px;
+  padding-top: 15%;
+  color: #4A628A;
+
+}
+
+.introduction-image-container{
+  display: flex;
+width: 45%;
+justify-content: center;
+align-items: center;
+}
+
+
+.introduction-image{
+  width: 80%;
+
+}
+

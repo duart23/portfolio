@@ -3,9 +3,9 @@ import Button from "react-bootstrap/Button";
 import "../Styles/Project.css";
 
 const Project = ({ title, description, image, altText, link, repo }) => (
-  <div className="project">
+  <div className="project d-flex justify-content-center">
     <div className="project-card d-flex">
-      <div className="card-image">
+      <div className="card-image d-flex justify-content-center">
         <img className="image" alt={altText} src={image} />
       </div>
       <div className="card-body d-flex flex-column align-items-start align-items-center">

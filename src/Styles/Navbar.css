@@ -1,19 +1,15 @@
 /* Navbar styles */
 .navbar {
-    background-color: rgb(56, 116, 120) !important; /* Force dark background color */
+    background-color: #ACE0E4 !important; /* Force dark background color */
 }
 
 .navbar .navbar-brand {
-    color: rgb(226, 241, 231) !important;
+    color: #4A628A !important;
     font-weight: bold;
 }
 
-.navbar .navbar-brand:hover {
-    color: #f8f9fa !important; /* Lighter color on hover */
-}
-
 .navbar .nav-link {
-    color: rgb(226, 241, 231)!important; /* Force white text for links */
+    color: #4A628A !important; /* Force white text for links */
     padding: 10px 15px;
     margin-left: 30px;/* Spacing around links */
 }
@@ -28,12 +24,7 @@
 }
 
 .navbar .nav-link:hover {
-    background-color: rgb(70, 132, 137); /* Light background on hover */
+    background-color: #a3d5d9; /* Light background on hover */
     border-radius: 5px; /* Rounded corners */
 }
 
-@media (max-width: 992px) {
-    .navbar {
-        background-color:rgb(56, 116, 120) !important; /* Slightly lighter on mobile */
-    }
-}
