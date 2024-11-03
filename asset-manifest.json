@@ -1,21 +1,33 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.4c2e0edf.css",
-    "main.js": "/portfolio/static/js/main.35195260.js",
+    "main.css": "/portfolio/static/css/main.6ba8a5cd.css",
+    "main.js": "/portfolio/static/js/main.577759ac.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
-    "static/media/Instagram.png": "/portfolio/static/media/Instagram.ac31e22207e23b7186e8.png",
-    "static/media/Pokedex.png": "/portfolio/static/media/Pokedex.240e6f5ec7504ee7686f.png",
-    "static/media/Showdex.ttf": "/portfolio/static/media/Showdex.d1abfd42e3a2d2595f9b.ttf",
-    "static/media/dog.gif": "/portfolio/static/media/dog.6c6bf45ef0a58b89f388.gif",
-    "static/media/Email.png": "/portfolio/static/media/Email.05b80f9c7bd70ec8c753.png",
-    "static/media/LinkedIn.png": "/portfolio/static/media/LinkedIn.68ac41e1459436bfd38f.png",
+    "static/media/Animoji.png": "/portfolio/static/media/Animoji.deb612f67fc59f6cbc1e.png",
+    "static/media/Pokemon.png": "/portfolio/static/media/Pokemon.15039a094e848fb367c4.png",
+    "static/media/jura-latin-ext-400-normal.woff": "/portfolio/static/media/jura-latin-ext-400-normal.0a38d910bb9429bf1dd2.woff",
+    "static/media/jura-latin-400-normal.woff": "/portfolio/static/media/jura-latin-400-normal.11cc90568d0411e469d5.woff",
+    "static/media/jura-latin-400-normal.woff2": "/portfolio/static/media/jura-latin-400-normal.30684ab1ae5730efe34c.woff2",
+    "static/media/jura-latin-ext-400-normal.woff2": "/portfolio/static/media/jura-latin-ext-400-normal.95241877322631b127ed.woff2",
+    "static/media/jura-greek-ext-400-normal.woff": "/portfolio/static/media/jura-greek-ext-400-normal.8e4ec3600c1c79d062d3.woff",
+    "static/media/jura-cyrillic-400-normal.woff": "/portfolio/static/media/jura-cyrillic-400-normal.fa928cea3386eef80963.woff",
+    "static/media/jura-cyrillic-400-normal.woff2": "/portfolio/static/media/jura-cyrillic-400-normal.8c02267ce11d2207d954.woff2",
+    "static/media/jura-vietnamese-400-normal.woff": "/portfolio/static/media/jura-vietnamese-400-normal.1bf4efc7c132ecb10ba3.woff",
+    "static/media/jura-greek-400-normal.woff": "/portfolio/static/media/jura-greek-400-normal.2729c27328257e786949.woff",
+    "static/media/jura-greek-ext-400-normal.woff2": "/portfolio/static/media/jura-greek-ext-400-normal.1c13e012f90d9668f57e.woff2",
+    "static/media/jura-greek-400-normal.woff2": "/portfolio/static/media/jura-greek-400-normal.8ad87797249c2b74063f.woff2",
+    "static/media/jura-kayah-li-400-normal.woff": "/portfolio/static/media/jura-kayah-li-400-normal.1c583e51a392f51ffe2a.woff",
+    "static/media/jura-vietnamese-400-normal.woff2": "/portfolio/static/media/jura-vietnamese-400-normal.5d543e6d97f4972cdfbc.woff2",
+    "static/media/jura-kayah-li-400-normal.woff2": "/portfolio/static/media/jura-kayah-li-400-normal.857251d79aa4b54ebcc2.woff2",
+    "static/media/jura-cyrillic-ext-400-normal.woff": "/portfolio/static/media/jura-cyrillic-ext-400-normal.4b79dafed242b754f970.woff",
+    "static/media/jura-cyrillic-ext-400-normal.woff2": "/portfolio/static/media/jura-cyrillic-ext-400-normal.cf0cf032b1fd41ca2af0.woff2",
     "index.html": "/portfolio/index.html",
-    "main.4c2e0edf.css.map": "/portfolio/static/css/main.4c2e0edf.css.map",
-    "main.35195260.js.map": "/portfolio/static/js/main.35195260.js.map",
+    "main.6ba8a5cd.css.map": "/portfolio/static/css/main.6ba8a5cd.css.map",
+    "main.577759ac.js.map": "/portfolio/static/js/main.577759ac.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c2e0edf.css",
-    "static/js/main.35195260.js"
+    "static/css/main.6ba8a5cd.css",
+    "static/js/main.577759ac.js"
   ]
 }
