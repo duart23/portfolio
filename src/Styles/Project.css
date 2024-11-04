@@ -15,8 +15,7 @@
 }
 
 .image{
-    width: 280px;
-    height: auto;
+    width: auto;
 }
 
 .card-body{
@@ -50,4 +49,27 @@
     background-color: #7AB2D3 ;
     color: #4A628A;
     
+}
+
+@media screen and (max-width: 768px){
+    .card-image{
+        width: 0% !important;
+    }
+
+    .image{
+        display: none;
+    }
+
+    .card-body{
+        width: 100%;
+    }
+
+    .card-buttons{
+        margin-top: 15px !important;
+    }
+
+    .project-card{
+        height: 200px;
+    }
+
 }

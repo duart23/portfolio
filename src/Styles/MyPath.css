@@ -97,6 +97,7 @@
     width: 100%;
     padding-left: 70px;
     padding-right: 25px;
+    justify-content: center;
   }
 
 /* Make sure that all arrows are pointing leftwards */
@@ -109,7 +110,7 @@
 
 /* Make sure all circles are at the same spot */
   .left::after, .right::after {
-    left: 15px;
+    left: 19px;
   }
 
 /* Make all right containers behave like the left ones */

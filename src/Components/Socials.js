@@ -39,12 +39,16 @@ const Socials = () => {
       <div className="cards">
         {socialsData.map((item) => (
           <a href={item.link} target="_blank" rel="noopener noreferrer" key={item.platform} className="card-link">
-          <Card className="card-socials">
+            <div className="socials-card d-flex">
+              <img src={item.img} alt={item.platform}/>
+              <p>{item.username}</p>
+            </div>
+          {/* <Card className="card-socials">
             <Card.Body className="d-flex align-items-center card-body-socials">
               <Card.Img className="card-img me-2" alt={item.platform} src={item.img} />
               <Card.Text className="mb-0">{item.username}</Card.Text>
             </Card.Body>
-          </Card>
+          </Card> */}
         </a>
         ))}
       </div>
