@@ -1,14 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.6ba8a5cd.css",
-    "main.js": "/portfolio/static/js/main.577759ac.js",
+    "main.css": "/portfolio/static/css/main.66693d4d.css",
+    "main.js": "/portfolio/static/js/main.34ed0d0d.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/Instagram.png": "/portfolio/static/media/Instagram.ac31e22207e23b7186e8.png",
     "static/media/Animoji.png": "/portfolio/static/media/Animoji.deb612f67fc59f6cbc1e.png",
     "static/media/Pokemon.png": "/portfolio/static/media/Pokemon.15039a094e848fb367c4.png",
     "static/media/jura-latin-ext-400-normal.woff": "/portfolio/static/media/jura-latin-ext-400-normal.0a38d910bb9429bf1dd2.woff",
     "static/media/jura-latin-400-normal.woff": "/portfolio/static/media/jura-latin-400-normal.11cc90568d0411e469d5.woff",
     "static/media/jura-latin-400-normal.woff2": "/portfolio/static/media/jura-latin-400-normal.30684ab1ae5730efe34c.woff2",
     "static/media/jura-latin-ext-400-normal.woff2": "/portfolio/static/media/jura-latin-ext-400-normal.95241877322631b127ed.woff2",
+    "static/media/Email.png": "/portfolio/static/media/Email.05b80f9c7bd70ec8c753.png",
+    "static/media/LinkedIn.png": "/portfolio/static/media/LinkedIn.68ac41e1459436bfd38f.png",
     "static/media/jura-greek-ext-400-normal.woff": "/portfolio/static/media/jura-greek-ext-400-normal.8e4ec3600c1c79d062d3.woff",
     "static/media/jura-cyrillic-400-normal.woff": "/portfolio/static/media/jura-cyrillic-400-normal.fa928cea3386eef80963.woff",
     "static/media/jura-cyrillic-400-normal.woff2": "/portfolio/static/media/jura-cyrillic-400-normal.8c02267ce11d2207d954.woff2",
@@ -22,12 +25,12 @@
     "static/media/jura-cyrillic-ext-400-normal.woff": "/portfolio/static/media/jura-cyrillic-ext-400-normal.4b79dafed242b754f970.woff",
     "static/media/jura-cyrillic-ext-400-normal.woff2": "/portfolio/static/media/jura-cyrillic-ext-400-normal.cf0cf032b1fd41ca2af0.woff2",
     "index.html": "/portfolio/index.html",
-    "main.6ba8a5cd.css.map": "/portfolio/static/css/main.6ba8a5cd.css.map",
-    "main.577759ac.js.map": "/portfolio/static/js/main.577759ac.js.map",
+    "main.66693d4d.css.map": "/portfolio/static/css/main.66693d4d.css.map",
+    "main.34ed0d0d.js.map": "/portfolio/static/js/main.34ed0d0d.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ba8a5cd.css",
-    "static/js/main.577759ac.js"
+    "static/css/main.66693d4d.css",
+    "static/js/main.34ed0d0d.js"
   ]
 }
