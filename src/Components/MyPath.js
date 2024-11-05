@@ -27,7 +27,7 @@ const pathData = [
 
 const MyPath = (title, position, place, date) => {
   return (
-    <div id="mypath" className="myPath-container primary py-5">
+    <div id="mypath" className="myPath-container primary py-4">
       <h2>My Path</h2>
       <div className="myPath-timeline position-relative m-0">
         {pathData.map((item) => (

@@ -26,7 +26,7 @@ const projectData = [
 
 const Projects = () => {
   return (
-    <div id='projects' className='projects-container'>
+    <div id='projects' className='projects-container py-4'>
       <h2>My Projects</h2>
       <div className="projects">
         {projectData.map((project, index) => (

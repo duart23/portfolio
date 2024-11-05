@@ -1,5 +1,6 @@
 .navbar {
     background-color: #ACE0E4 !important;
+    z-index: 1000;
 }
 
 .navbar .navbar-brand {
