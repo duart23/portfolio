@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.66693d4d.css",
-    "main.js": "/portfolio/static/js/main.34ed0d0d.js",
+    "main.css": "/portfolio/static/css/main.43230afe.css",
+    "main.js": "/portfolio/static/js/main.92d4c6d8.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
     "static/media/Instagram.png": "/portfolio/static/media/Instagram.ac31e22207e23b7186e8.png",
     "static/media/Animoji.png": "/portfolio/static/media/Animoji.deb612f67fc59f6cbc1e.png",
@@ -25,12 +25,12 @@
     "static/media/jura-cyrillic-ext-400-normal.woff": "/portfolio/static/media/jura-cyrillic-ext-400-normal.4b79dafed242b754f970.woff",
     "static/media/jura-cyrillic-ext-400-normal.woff2": "/portfolio/static/media/jura-cyrillic-ext-400-normal.cf0cf032b1fd41ca2af0.woff2",
     "index.html": "/portfolio/index.html",
-    "main.66693d4d.css.map": "/portfolio/static/css/main.66693d4d.css.map",
-    "main.34ed0d0d.js.map": "/portfolio/static/js/main.34ed0d0d.js.map",
+    "main.43230afe.css.map": "/portfolio/static/css/main.43230afe.css.map",
+    "main.92d4c6d8.js.map": "/portfolio/static/js/main.92d4c6d8.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.66693d4d.css",
-    "static/js/main.34ed0d0d.js"
+    "static/css/main.43230afe.css",
+    "static/js/main.92d4c6d8.js"
   ]
 }
