@@ -4,7 +4,7 @@ import "../Styles/Project.css";
 
 const Project = ({ title, description, image, altText, link, repo }) => (
   <div className="project d-flex justify-content-center">
-    <div className="project-card d-flex">
+    <div className="project-card primary d-flex">
       <div className="card-image d-flex justify-content-center">
         <img className="image" alt={altText} src={image} />
       </div>
@@ -14,10 +14,10 @@ const Project = ({ title, description, image, altText, link, repo }) => (
         <p>{description}</p>
         </div>
         <div className="card-buttons d-flex mt-auto">
-          <Button className="button" href={repo} target="_blank">
+          <Button className="button secondary" href={repo} target="_blank">
             GitHub Repo
           </Button>
-          <Button className="button" href={link} target="_blank">
+          <Button className="button secondary" href={link} target="_blank">
             Visit Website
           </Button>
         </div>

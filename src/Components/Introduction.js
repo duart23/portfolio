@@ -4,7 +4,7 @@ import Animoji from '../img/Animoji.png';
 
 function Introduction() {
   return (
-    <div className="introduction-container d-flex">
+    <div className="introduction-container secondary d-flex">
       <div className="introduction-body">
         <h1>Duarte Jorge</h1>
         <p>

@@ -3,7 +3,7 @@
     width: 90% !important;
     margin-bottom: 5%;
     height: 300px;
-    background: #DFF2EB;
+    /* background: #DFF2EB; Code Review*/
     border-radius: 20px;
 }
 
@@ -40,9 +40,9 @@
 }
 
 .button{
-  background-color: #B9E5E8;
-  color: #4A628A;
-  border: 0;
+  /* background-color: #B9E5E8; Review */
+    color: #4A628A;
+    border: 0;
 }
 
 .button:hover{

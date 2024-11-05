@@ -3,6 +3,9 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import '../Styles/Navbar.css';
 
+import { useState } from 'react';
+
+
 
 function Navigation() {
   return (
@@ -14,7 +17,7 @@ function Navigation() {
           <Nav className="ms-auto">
             <Nav.Link href="#projects">My Projects</Nav.Link>
             <Nav.Link href="#mypath">My path</Nav.Link>
-            <Nav.Link href="">Socials</Nav.Link>
+            <Nav.Link href="#socials">Socials</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>

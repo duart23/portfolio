@@ -1,4 +1,3 @@
-import Card from "react-bootstrap/Card";
 import React from "react";
 import "../Styles/Socials.css";
 import Instagram from '../img/Instagram.png';
@@ -35,7 +34,7 @@ const socialsData = [
 
 const Socials = () => {
   return (
-    <div className="socials-container">
+    <div id="socials" className="socials-container">
       <div className="cards">
         {socialsData.map((item) => (
           <a href={item.link} target="_blank" rel="noopener noreferrer" key={item.platform} className="card-link">
