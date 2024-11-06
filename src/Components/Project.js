@@ -10,7 +10,7 @@ const Project = ({ title, description, image, altText, link, repo }) => (
       </div>
       <div className="card-body d-flex flex-column align-items-start align-items-center">
         <div className="card-text">
-        <h3>{title}</h3>
+        <h3 className="fw-bold">{title}</h3>
         <p>{description}</p>
         </div>
         <div className="card-buttons d-flex mt-auto">

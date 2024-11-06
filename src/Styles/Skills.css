@@ -35,7 +35,7 @@
 .progress-container{
     margin: auto;
     position: relative;
-    width: 70%; /* Adjust width as needed */
+    width: 70%;
     height: 5px;
     border-radius: 4px;
     overflow: hidden;

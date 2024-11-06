@@ -11,7 +11,7 @@ function Navigation() {
 
   const updateLinkOffset = () => {
     const width = window.innerWidth;
-    setLinkOffset(width < 992 ? -150 : -20);
+    setLinkOffset(width < 992 ? -200 : -20);
   };
 
   useEffect(() => {
@@ -57,6 +57,16 @@ function Navigation() {
               onClick={closeNav}
             >
               My Path
+            </Link>
+            <Link
+              to="skills"
+              smooth={true}
+              duration={400}
+              offset={linkOffset}
+              className="nav-link"
+              onClick={closeNav}
+            >
+              Skills
             </Link>
             <Link
               to="socials"

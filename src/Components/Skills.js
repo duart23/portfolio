@@ -24,7 +24,7 @@ const Skills = () => {
         <div className="skills-card secondary position-relative d-flex py-4 px-2">
           {skillsData.map((item) => (
             <div key={item.id} className="skill-progress p-4 d-flex ">
-              <div className="skill-title mx-3">{item.skill}</div>
+              <div className="skill-title fw-bold mx-3">{item.skill}</div>
               <div className="progress-container tertiary ">
               <div className="progress-bar"
               style={{ width: `${item.rating}%` }}>
