@@ -65,11 +65,27 @@
     }
 
     .card-buttons{
-        margin-top: 15px !important;
+        margin-top: auto !important;
+        padding-bottom: 10px;
+    }
+
+    .card-text{
+        margin-top: auto;
     }
 
     .project-card{
-        height: 200px;
+        height: 240px;
     }
 
+}
+
+@media screen and (max-width: 1000px){
+.image{
+    width: 100%;
+    height: 90%;
+}
+
+.card-image{
+    margin: auto;
+}
 }

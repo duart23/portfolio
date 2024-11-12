@@ -48,7 +48,7 @@
   justify-content: right;
 }
 
-/* Place the container to the right */
+/* Place the container to the right */  
 .right {
   left: 50%;
 }
@@ -85,7 +85,7 @@
   background-color: #7AB2D3 ;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 750px) {
 /* Place the timelime to the left */
   .myPath-timeline::after {
     left: 31px;
@@ -94,7 +94,7 @@
 /* Full-width containers */
   .myPath-card {
     width: 100%;
-    padding-left: 70px;
+    padding-left: 25px;
     padding-right: 25px;
     justify-content: center;
   }
@@ -112,8 +112,13 @@
     left: 19px;
   }
 
-/* Make all right containers behave like the left ones */
   .right {
     left: 0%;
+  }
+}
+
+@media screen and (max-width: 590px){
+  .myPath-card{
+    padding-left: 70px;
   }
 }

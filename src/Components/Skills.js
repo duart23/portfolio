@@ -11,7 +11,7 @@ const skillsData = [
   { id: 7, skill: "Java" ,rating:65},
   { id: 8, skill: "C#/.NET" ,rating:70},
   { id: 9, skill: "SQL" ,rating:60},
-  { id: 10, skill: "Talking" ,rating:75},
+  { id: 10, skill: "Python" ,rating:30},
   { id: 11, skill: "Unity" ,rating:30},
   { id: 12, skill: "Blender" ,rating:30},
 ];
