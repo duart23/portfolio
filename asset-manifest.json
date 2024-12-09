@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.4b850cd4.css",
-    "main.js": "/portfolio/static/js/main.f7adfd74.js",
+    "main.js": "/portfolio/static/js/main.6b746796.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
     "static/media/PCPlanet.png": "/portfolio/static/media/PCPlanet.c35ab7af57fba7a49e07.png",
     "static/media/Instagram.png": "/portfolio/static/media/Instagram.ac31e22207e23b7186e8.png",
@@ -27,11 +27,11 @@
     "static/media/jura-cyrillic-ext-400-normal.woff2": "/portfolio/static/media/jura-cyrillic-ext-400-normal.cf0cf032b1fd41ca2af0.woff2",
     "index.html": "/portfolio/index.html",
     "main.4b850cd4.css.map": "/portfolio/static/css/main.4b850cd4.css.map",
-    "main.f7adfd74.js.map": "/portfolio/static/js/main.f7adfd74.js.map",
+    "main.6b746796.js.map": "/portfolio/static/js/main.6b746796.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b850cd4.css",
-    "static/js/main.f7adfd74.js"
+    "static/js/main.6b746796.js"
   ]
 }
