@@ -10,7 +10,7 @@ import PCPlanet from '../img/PCPlanet.png';
 const projectData = [
   {
     title: 'Portfolio',
-    description: 'My personal portfolio that you are currently looking at! :)',
+    description: 'My personal portfolio that you are currently looking at! I built this web page using React and Bootstrap.',
     image: Animoji,
     link: '',
     altText: 'Animoji',
