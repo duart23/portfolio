@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.4b850cd4.css",
-    "main.js": "/portfolio/static/js/main.6b746796.js",
+    "main.css": "/portfolio/static/css/main.10df81b3.css",
+    "main.js": "/portfolio/static/js/main.94f7df51.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
     "static/media/PCPlanet.png": "/portfolio/static/media/PCPlanet.c35ab7af57fba7a49e07.png",
     "static/media/Instagram.png": "/portfolio/static/media/Instagram.ac31e22207e23b7186e8.png",
@@ -9,6 +9,7 @@
     "static/media/Pokemon.png": "/portfolio/static/media/Pokemon.15039a094e848fb367c4.png",
     "static/media/jura-latin-ext-400-normal.woff": "/portfolio/static/media/jura-latin-ext-400-normal.0a38d910bb9429bf1dd2.woff",
     "static/media/jura-latin-400-normal.woff": "/portfolio/static/media/jura-latin-400-normal.11cc90568d0411e469d5.woff",
+    "static/media/Golf.png": "/portfolio/static/media/Golf.f73caae4f75e023fc672.png",
     "static/media/jura-latin-400-normal.woff2": "/portfolio/static/media/jura-latin-400-normal.30684ab1ae5730efe34c.woff2",
     "static/media/jura-latin-ext-400-normal.woff2": "/portfolio/static/media/jura-latin-ext-400-normal.95241877322631b127ed.woff2",
     "static/media/GreenHouse.png": "/portfolio/static/media/GreenHouse.2be09367b37724f76eec.png",
@@ -26,12 +27,12 @@
     "static/media/jura-cyrillic-ext-400-normal.woff": "/portfolio/static/media/jura-cyrillic-ext-400-normal.4b79dafed242b754f970.woff",
     "static/media/jura-cyrillic-ext-400-normal.woff2": "/portfolio/static/media/jura-cyrillic-ext-400-normal.cf0cf032b1fd41ca2af0.woff2",
     "index.html": "/portfolio/index.html",
-    "main.4b850cd4.css.map": "/portfolio/static/css/main.4b850cd4.css.map",
-    "main.6b746796.js.map": "/portfolio/static/js/main.6b746796.js.map",
+    "main.10df81b3.css.map": "/portfolio/static/css/main.10df81b3.css.map",
+    "main.94f7df51.js.map": "/portfolio/static/js/main.94f7df51.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b850cd4.css",
-    "static/js/main.6b746796.js"
+    "static/css/main.10df81b3.css",
+    "static/js/main.94f7df51.js"
   ]
 }
