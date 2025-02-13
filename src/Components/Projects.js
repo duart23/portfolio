@@ -6,6 +6,7 @@ import Pokemon from '../img/Pokemon.png';
 import Animoji from '../img/Animoji.png';
 import GreenHouse from '../img/GreenHouse.png';
 import PCPlanet from '../img/PCPlanet.png';
+import Golf from '../img/Golf.png';
 
 const projectData = [
   {
@@ -23,6 +24,14 @@ const projectData = [
     link: 'https://duart23.github.io/Pokedex/',
     altText: 'Pokedex',
     repo : 'https://github.com/duart23/Pokedex.git'
+  },
+  {
+    title: 'Golf App - Under Development',
+    description: 'Im creating a golf web app using next.js and tailwindcss. The app will allow users to keep track of their golf scores and stats. CI/CD is being implemented using Github Actions and the app will be deployed on Vercel.',
+    image: Golf, 
+    link: 'https://golfapp-seven.vercel.app/',
+    altText: 'Golf',
+    repo : 'https://github.com/duart23/golfapp.git'
   },
   {
     title: 'GreenHouse Manager',

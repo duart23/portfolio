@@ -6,7 +6,7 @@ const Project = ({ title, description, image, altText, link, repo }) => (
   <div className="project d-flex justify-content-center">
     <div className="project-card primary d-flex">
       <div className="card-image d-flex justify-content-center">
-        <img className="image" alt={altText} src={image} />
+        <img className="image my-auto" alt={altText} src={image} />
       </div>
       <div className="card-body d-flex flex-column align-items-start align-items-center">
         <div className="card-text">
