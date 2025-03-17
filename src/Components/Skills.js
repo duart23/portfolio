@@ -4,10 +4,10 @@ import "../Styles/Skills.css";
 const skillsData = [
   { id: 1, skill: "HTML", rating: 80 },
   { id: 2, skill: "CSS", rating: 70 },
-  { id: 3, skill: "JavaScript", rating: 70 },
-  { id: 5, skill: "TypeScript" ,rating:45},
+  { id: 3, skill: "JavaScript", rating: 60 },
+  { id: 5, skill: "TypeScript" ,rating:70},
   { id: 4, skill: "React", rating: 75 },
-  { id: 13, skill: "Next.js", rating: 50},
+  { id: 13, skill: "Next.js", rating: 60},
   { id: 6, skill: "Bootstrap" ,rating:70},
   { id:14, skill: "Taillwind", rating:70},
   { id: 7, skill: "Java" ,rating:60},
